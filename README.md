@@ -1,1 +1,1 @@
-`https://codesandbox.io/s/react-native-jb6nr`
+> [CodeSandBox](https://codesandbox.io/s/react-native-jb6nr)
