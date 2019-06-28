@@ -1,2 +1,0 @@
-# ViewReactNative
-Created with CodeSandbox
